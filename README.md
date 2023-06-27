@@ -1,7 +1,9 @@
 # Memo-Rx
 
 사용 Skills & Libraries: RxCocoa, RxSwift, Snapkit, Swift, iOS
+
 팀 구성: 1인
+
 한 줄 소개: MVVM과 RxSwift를 사용한 간단한 메모 앱
 
 ---
